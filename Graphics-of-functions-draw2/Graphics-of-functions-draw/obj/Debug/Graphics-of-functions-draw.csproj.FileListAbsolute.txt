@@ -1,0 +1,10 @@
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\bin\Debug\Graphics-of-functions-draw.exe.config
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\bin\Debug\Graphics-of-functions-draw.exe
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\bin\Debug\Graphics-of-functions-draw.pdb
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\obj\Debug\Graphics-of-functions-draw.csprojAssemblyReference.cache
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\obj\Debug\Graphics_of_functions_draw.Properties.Resources.resources
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\obj\Debug\Graphics-of-functions-draw.csproj.GenerateResource.cache
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\obj\Debug\Graphics-of-functions-draw.csproj.CoreCompileInputs.cache
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\obj\Debug\Graphics-of-functions-draw.exe
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\obj\Debug\Graphics-of-functions-draw.pdb
+D:\Проекты\Проекты на С#\Graphics functions draw\Graphics-of-functions-draw\Graphics-of-functions-draw2\Graphics-of-functions-draw\obj\Debug\Graphics_of_functions_draw.Form1.resources
